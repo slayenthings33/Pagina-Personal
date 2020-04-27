@@ -1,0 +1,10 @@
+.navbar {
+    background-color: cornflowerblue;
+    color: brown;
+    font-family: fantasy;
+}
+#headshot {
+    border: 1px;
+    height: 300;
+    width: 100;
+}
