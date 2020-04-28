@@ -1,10 +1,42 @@
 .navbar {
+    margin-right: 600px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     background-color: cornflowerblue;
     color: brown;
     font-family: fantasy;
 }
+
 #headshot {
-    border: 1px;
-    height: 300;
-    width: 100;
+    border: 1px black solid;
+    padding: 2px;
+    height: 30%;
+    width: 30%;
+}
+
+.intro h1 {
+    color: black;
+    margin-left: 12px;
+    margin-bottom: -10px;
+    font-family: ;
+}
+
+.subimportant {
+    font-family: cursive;
+}
+
+
+.subtext {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    margin-left: 20px;
+    margin-right: 300px;
+}
+
+.footer {
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
